@@ -28,7 +28,7 @@
      
      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&color=black" alt="expressjs"/>
 
-##### All suggestions and recomendations are welcomed! 🙂 Feel free to contact me: &nbsp;[<img height="20" width="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail"/>](mailto:algms.algms@gmail.com) &nbsp;[<img height="20" width="20" src="https://user-images.githubusercontent.com/93891879/150801529-3c59ab05-b968-4ee0-b936-af23c346548c.JPG" alt="linkedin"/>](https://linkedin.com/in/luisagmsantos)
+##### All suggestions and recomendations are welcomed! 🙂 Feel free to contact me: &nbsp;[<img height="20" width="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail"/>](mailto:algms.algms@gmail.com) &nbsp;[<img height="20" width="20" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="linkedin"/>](https://linkedin.com/in/luisagmsantos)
 
 ##### Besides coding what I like to do for fun is:
 
