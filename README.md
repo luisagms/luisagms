@@ -4,7 +4,7 @@
 - I’m currently an external auditor in the financial services industry but I'm seeking an opportunity to fulfill my dream of becoming a **web developer** and **digital nomad**! :heart_eyes:
 
 
-- Since 2021 I have been **learning** 🌱:
+- I have been **learning** 🌱:
 
      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white&color=black" alt="react"/>
      
