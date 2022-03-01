@@ -1,7 +1,7 @@
 ## Hi, I'm Luísa! ✨
 
 
-- I’m currently an external auditor in the financial services industry but I'm seeking an opportunity to fulfill my dream of becoming a **web developer** and **digital nomad**! :heart_eyes:
+- I am on my way to become a **digital nomad**! :heart_eyes:
 
 
 - I have been **using** 🌱:
